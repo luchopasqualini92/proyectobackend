@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Riberão Lager",
+    "precio": "310",
+    "thumb": "https://www.ambev.com.br/conteudo/uploads/2019/11/colorado-ribeirao_600ml.png",
+    "id": 1
+  },
+  {
+    "nombre": "Riberão Lager",
+    "precio": "310",
+    "thumb": "https://www.ambev.com.br/conteudo/uploads/2019/11/colorado-ribeirao_600ml.png",
+    "id": 2
+  }
+]
