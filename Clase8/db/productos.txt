@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Riberão Lager",
+    "precio": "310",
+    "thumb": "https://www.ambev.com.br/conteudo/uploads/2019/11/colorado-ribeirao_600ml.png",
+    "id": 1
+  },
+  {
+    "nombre": "Riberão Lager",
+    "precio": "310",
+    "thumb": "https://www.ambev.com.br/conteudo/uploads/2019/11/colorado-ribeirao_600ml.png",
+    "id": 2
+  },
+  {
+    "nombre": "Ithaca",
+    "precio": "250",
+    "thumb": "https://www.ambev.com.br/conteudo/uploads/2019/03/colorado-ithaca_600ml.png",
+    "id": 3
+  },
+  {
+    "nombre": "Kilometro 24.7",
+    "precio": "150",
+    "thumb": "https://www.comprasparaguai.com.br/media/fotos/produtos/thumbs/big/070eadd3a319b9cd7d5842a53dad3d7a86624585.jpg",
+    "id": 4
+  },
+  {
+    "nombre": "qwereqw",
+    "precio": "1235",
+    "thumb": "ewrtsfda",
+    "id": 5
+  },
+  {
+    "nombre": "prueba2",
+    "precio": "1230",
+    "thumb": "123probando.jpg",
+    "id": 7
+  }
+]

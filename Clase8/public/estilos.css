@@ -1,0 +1,20 @@
+.contenedor {
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    margin-top: 5px;
+    width: 100%;
+}
+
+.send {
+    margin-top: 1rem;
+    background-color: rgb(214, 141, 46);
+}
